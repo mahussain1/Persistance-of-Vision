@@ -1,8 +1,8 @@
-# Persistance-of-Vision
-Persistence of Vision or POV is based on human vision capability. It works using this fact that human eye is unable to detect change within 1/16 sec. LEDs were mounted on flat strip of PCB attached with stepper motor. Further, on basis of coding different effects could be observed while rotating.
+# Persistance of Vision
+Persistence of Vision or POV is based on human vision capability. It works using the fact that human eye is unable to detect change within 1/16 sec. LEDs were mounted on flat strip of PCB attached with stepper motor. Further on basis of coding, different effects could be observed while rotating.
 
 ## Delay Calculation
-It is important to set delay of Leds on and off time to clearly visulize the test while rotating. So for calculating delay, following strategy was used as shown in figure.
+It is important to set delay of Leds on and off time to clearly visulize the characters while rotating. So for calculating delay, following strategy was used as shown in figure.
 
 <img src= "./Images/delay formula.png" height="400" width="400">
 
@@ -34,4 +34,4 @@ The Schematic and PCB file was designed using Eagle CAD Software.
 
 
 ### Acknowledgement
-This project was completed during my internship at [FAB LAB Sukkur IBA University](http://fablab.iba-suk.edu.pk/) in 2017. Iam thankful to Dr. Muhammad Asim Ali Samejo and Fab Lab instructor Engr. Manzar Hussain Laghar for their guidance.
+This project was completed during my internship at [FAB LAB Sukkur IBA University](http://fablab.iba-suk.edu.pk/) in 2017. I am thankful to Dr. Muhammad Asim Ali Samejo and Fab Lab instructor Engr. Nadir Ali Brohi for their guidance.

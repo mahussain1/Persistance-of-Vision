@@ -10,11 +10,11 @@ It is important to set delay of Leds on and off time to clearly visulize the cha
 
 ## Character Combination for 5 and 12 Leds Strip
 
-To generate different charater combination, Every led step is counted as binary number. Suppose to display one digit as straight verticle line on 5 leds, we have to turn on all leds at same time. So the arrary values will be like: 1+2+4+8+16 = 31. So 31 will be stored in array to display a straight line. This technique is followed for each character to create array. See Example figure below to have some graphical overview.
+To generate different charater combination, Every led is considered as binary digit. Suppose to display one digit as straight verticle line on 5 leds, we have to turn on all leds at same time. So the arrary values will be like: 1+2+4+8+16 = 31. So 31 will be stored in array to display a straight line. This technique is followed for each character to create an array. See Example figure below to have some graphical overview.
 
 <img src= "./Images/arrary calculation.png" height="400" width="400">
 
-*Technique to calculate array combination*
+*Technique to calculate an array combination*
 
 
 ## PCB Schematic and Board file Snapshots

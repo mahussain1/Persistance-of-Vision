@@ -17,7 +17,7 @@ To generate different charater combination, Every led step is counted as binary 
 *Technique to calculate array combination*
 
 
-## PCB Schematic and Board File Snaps
+## PCB Schematic and Board file Snapshots
 The Schematic and PCB file was designed using Eagle CAD Software. 
 
 <img src= "./Images/Schematic.png" height="400" width="800">
@@ -34,4 +34,4 @@ The Schematic and PCB file was designed using Eagle CAD Software.
 
 
 ### Acknowledgement
-This project was completed during my internship at [FAB LAB Sukkur IBA University](http://fablab.iba-suk.edu.pk/) in 2017. I am thankful to Dr. Muhammad Asim Ali Samejo and Fab Lab instructor Engr. Nadir Ali Brohi for their guidance.
+This project was completed during my internship at [FAB LAB Sukkur IBA University](http://fablab.iba-suk.edu.pk/) in 2017. I am thankful to Engr. Dr. Muhammad Asim Ali Samejo and Fab Lab instructor Engr. Manzar Hussain Laghari for their guidance.

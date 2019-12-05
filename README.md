@@ -4,7 +4,7 @@ Persistence of Vision or POV is based on human vision capability. It works using
 ## Delay Calculation
 It is important to set delay of Leds on and off time to clearly visulize the characters while rotating. So for calculating delay, following strategy was used as shown in figure.
 
-<img src= "./Images/delay formula.png" height="400" width="400">
+<img src= "./Images/delay formula.png" height="600" width="600">
 
 *Formula to calculate delay*
 

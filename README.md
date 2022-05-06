@@ -29,7 +29,7 @@ The Schematic and PCB file was designed using Eagle CAD Software.
 * Lipo Battery
 * Electronic Speed Control (ESC)
 * HC-05 Bluetooth Sensor
-* Transistors, Volaatge Regulator
+* Transistors, Voltage Regulator
 * RGB Leds, Resistors, Capacitors
 
 
